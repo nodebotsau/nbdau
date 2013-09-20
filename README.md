@@ -32,7 +32,7 @@ If any of this isn't working, don't worry, our friendly team will be able to hel
 Install the following (assuming Ubuntu / Debian machines):
 
 * Arduino [Available here to install manually](http://playground.arduino.cc/Learning/Linux) or a simple 'apt-get install arduino' should do it
-* NodeJS: [Follow appropriate directions here](http://nodejs.org) or again 'apt-get install nodejs' should get you there.
+* NodeJS: [Source install instructions here](http://howtonode.org/how-to-install-nodejs). Don't install via your package manager as you really need an up-to-date version of node to work with hardware.
 
 ### Windows
 
