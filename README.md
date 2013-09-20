@@ -20,7 +20,7 @@ If any of this isn't working, don't worry, our friendly team will be able to hel
 
 ### Mac OSX
 
-* XCode - Install from app store. This is big, you don't want to be doing this on the day or you'll miss out an hour of the fun.
+* XCode - Install from app store. If you have installed the Command Line Tools through another means (eg Homebrew) then you won't need to do this. This is big, you don't want to be doing this on the day or you'll miss out an hour of the fun.
 * Development command line tools - Easiest way to do this is from xcode itself: [See thread here at StackOverflow](http://stackoverflow.com/questions/9329243/xcode-4-4-command-line-tools)
 * Your choice of HomeBrew or MacPorts. We'd recommend [homebrew](http://brew.sh/) as it makes getting node up and running easy.
 * NodeJS - [Follow appropriate directions here](http://nodejs.org)
