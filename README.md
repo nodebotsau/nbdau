@@ -27,6 +27,12 @@ If any of this isn't working, don't worry, our friendly team will be able to hel
 * Arduino - [Mac Install guide](http://arduino.cc/en/Guide/MacOSX)
 * Install the FTDI Drivers. You must do this if you want to use the ED1 boards. [32-bit Macs](http://www.ftdichip.com/drivers/VCP/MacOSX/FTDIUSBSerialDriver_v2_2_18.dmg) or [64-bit Macs](http://www.ftdichip.com/Drivers/VCP/MacOSX/FTDIUSBSerialDriver_v2_2_18.dmg)
 
+Finally - attempt to install node-serialport as this will test everything is working:
+
+```
+	npm install serialport
+```
+
 ### Linux
 
 Install the following (assuming Ubuntu / Debian machines):
@@ -34,6 +40,27 @@ Install the following (assuming Ubuntu / Debian machines):
 * Arduino [Available here to install manually](http://playground.arduino.cc/Learning/Linux) or a simple 'apt-get install arduino' should do it
 * NodeJS: [Source install instructions here](http://howtonode.org/how-to-install-nodejs). Don't install via your package manager as you really need an up-to-date version of node to work with hardware.
 
+Finally - attempt to install node-serialport as this will test everything is working:
+
+```
+	npm install serialport
+```
+
 ### Windows
 
-TODO as AJ doesn't use windows so needs some help.
+Install the following:
+
+* Visual Studio Express 2012 / 2013 [Install guide here](http://www.microsoft.com/visualstudio/eng/downloads#d-express-windows-desktop) - you absolutely must have this installed on windows as Node Serial Port depends on it.
+* Python 2.7.x [Download here](http://www.python.org/download/releases/2.7.5/) - Just download the bit version you need and install the exe.
+* NodeJS: [Windows Installer here](http://nodejs.org/download/)
+
+You want to check that this is all working BEFORE you come to NBD. The best way to test is to install node-serialport. In the Visual Studio Command Prompt you need to add python to your path so node-gyp (the node build system) can find it and work. And then install serialport.
+
+```
+	set path=%path%;C:\Python27
+    npm install serialport --msvs_version=2012
+```
+
+This will shake out any problems you've got. It's pretty common to have troubles with Windows but they are fairly well documented and a quick google of the error message will usually resolve it.
+
+If not then our friendly team will give you a hand on the day.
