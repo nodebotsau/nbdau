@@ -5,7 +5,7 @@
 var five = require("johnny-five");
 var keypress = require('keypress');
 
-var STOPVAL = 89;
+var STOPVAL = 88;
 
 keypress(process.stdin);
 
