@@ -17,7 +17,13 @@ MIT licence derived from the master given above.
 
 ## Use
 
-Use a NICTA ED1 board and install standard firmata on it.
+Use a NICTA ED1 board and install standard firmata on it with the following two 
+lines of code inserted AFTER the header inclusions. Compile and upload as normal.
+
+```
+    #define TOTAL_PINS 22
+    #define TOTAL_ANALOG_PINS 8
+```
 
 Install NodeJS and then Johnny-Five:
 
@@ -26,5 +32,4 @@ Install NodeJS and then Johnny-Five:
 Examples in this directory can be run simply using
 
     node example.js
-
 
