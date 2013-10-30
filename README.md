@@ -17,6 +17,32 @@ If you can download and install all your software prerequisites it will mean you
 
 If you're keen on building a simple robot you can take home with you then you'll need some components. [We've got a handy list here of what you need and where you can get it.](simplebot.md)
 
+## Aussie NodeBoteers
+
+Here are a bunch of people doing interesting things in the NodeBots space if you want to follow their activities.
+
+Glen Arrowsmith (NBDBris) - JS Hacker and Browser Bot Pioneer [@garrows](http://twitter.com/garrows) | [GitHub](http://github.com/garrows)
+
+Maurice Butler (NBDBris) - Doer of all things javascript && Node.js [@butlermaurice](http://twitter.com/butlermaurice)
+
+Andrew Fisher (NBDSyd, NBDMelb, NBDBris) - Builder of web things, interaction researcher [@ajfisher](http://twitter.com/ajfisher) | [GitHub](http://github.com/ajfisher)
+
+Andy Gelme (NBDMelb) - Mesh networking, robots, Lifx, creator of Melbourne Hackerspace [@geekscape](http://twitter.com/geekscape) | [GitHub](http://github.com/geekscape)
+
+Anna Gerber (NBDBris) - Maker and developer, teacher, maintainer of the Nodebots version of Arduino Experimenters Guide [@annagerber](http://twitter.com/annagerber) | [GitHub](http://github.com/annagerber)
+
+Breandan Halliday (NBDBris) - Hardware hacker [@nog3](http://twitter.com/nog3)
+
+John Judge (NBDSyd) - NICTA ED1 hacker, educator
+
+Harriet Lawrence - Web Thingsificationer and tinkerer [@harrietgl](http://twitter.com/harrietgl)
+
+Hadi Michael (NBDMelb) - JS Developer and robotics hacker [@hadi_michael](http://twitter.com/hadi_michael) | [GitHub](http://github.com/hadimichael)
+
+Damon Oehlman (NBDSyd) - JS developer. Hacker of skylanders hardware [@damonoehlman](http://twitter.com/damonoehlman) | [GitHub](http://github.com/damonoehlman)
+
+Jared Wyles (NBDSyd, NBDMelb) - JS / Node hacker and kicked off bringing NBD to Australia. [@rioter](http://twitter.com/rioter) | [GitHub](http://github.com/rioter)
+
 ## Previous NodeBots Day Australia Events
 
 ### NodeBots Day Melbourne
