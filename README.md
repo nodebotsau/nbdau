@@ -5,7 +5,7 @@ This respository is for all NodeBots Day events being run in Australia and conta
 ## Upcoming Events:
 
 ### NodeBots Day Brisbane
-**Date / Time:** Saturday November 30, 2013 (10am-6pm)
+**Date / Time:** Saturday November 30, 2013 (12pm-6pm)
 
 **Location:** The Edge, Stanley Place, Cultural Centre, Southbank. [Map and travel details here](http://edgeqld.org.au/contact-us/)
 
@@ -29,9 +29,9 @@ Andrew Fisher (NBDSyd, NBDMelb, NBDBris) - Builder of web things, interaction re
 
 Andy Gelme (NBDMelb) - Mesh networking, robots, Lifx, creator of Melbourne Hackerspace [@geekscape](http://twitter.com/geekscape) | [GitHub](http://github.com/geekscape)
 
-Anna Gerber (NBDBris) - Maker and developer, teacher, maintainer of the Nodebots version of Arduino Experimenters Guide [@annagerber](http://twitter.com/annagerber) | [GitHub](http://github.com/annagerber)
+Anna Gerber (NBDBris) - Maker and developer, maintainer of the Nodebots version of Arduino Experimenters Guide [@annagerber](http://twitter.com/annagerber) | [GitHub](http://github.com/annagerber)
 
-Breandan Halliday (NBDBris) - Hardware hacker [@nog3](http://twitter.com/nog3)
+Brendan Halliday (NBDBris) - Hardware hacker [@nog3](http://twitter.com/nog3)
 
 John Judge (NBDSyd) - NICTA ED1 hacker, educator
 
