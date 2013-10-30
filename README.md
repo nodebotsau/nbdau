@@ -1,66 +1,36 @@
-# NodeBots Day Melbourne Resources
+# NodeBots Day Resources
 
-## General info:
+This respository is for all NodeBots Day events being run in Australia and contains location information as well as setup guides and information around simple bots and resources that can be used on the day.
 
-**Date / Time:** Saturday October 12, 2013 (10am-6pm)
+## Upcoming Events:
 
-**Location:** York Butter Factory, 62-66 King St, Melbourne.
+### NodeBots Day Brisbane
+**Date / Time:** Saturday November 30, 2013 (10am-6pm)
+
+**Location:** The Edge, Stanley Place, Cultural Centre, Southbank. [Map and travel details here](http://edgeqld.org.au/contact-us/)
+
+**Sponsors:** We are currently looking for sponsors. If you'd like to get involved please [get in touch](mailto:ajfisher.td@gmail.com)
 
 ## Things to do before the day
 
-The bottom of this doc has a list of software you should install as this will speed up the time it will take you to get running. 40 people all trying to download XCode (many multi GBs) at the same time will just slow everything down.
+If you can download and install all your software prerequisites it will mean you're up and running that much faster. [Our setup guide should get you up and running](setup.md) however if you run into any problems, our friendly NodeBoteers willgive you a hand on the day.
 
 If you're keen on building a simple robot you can take home with you then you'll need some components. [We've got a handy list here of what you need and where you can get it.](simplebot.md)
 
-## Setting up before you arrive:
+## Previous NodeBots Day Australia Events
 
-If you have all of this installed before you arrive then you'll be ready to just get cracking on playing with hardware.
+### NodeBots Day Melbourne
 
-If any of this isn't working, don't worry, our friendly team will be able to help you on the day but it's important to have everything downloaded or you'll be waiting a while to get it onto your machine.
+**When:** October 13, 2013
 
-### Mac OSX
+**Where:** York Butter Factory
 
-* XCode - Install from app store. If you have installed the Command Line Tools through another means (eg Homebrew) then you won't need to do this. This is big, you don't want to be doing this on the day or you'll miss out an hour of the fun.
-* Development command line tools - Easiest way to do this is from xcode itself: [See thread here at StackOverflow](http://stackoverflow.com/questions/9329243/xcode-4-4-command-line-tools)
-* Your choice of HomeBrew or MacPorts. We'd recommend [homebrew](http://brew.sh/) as it makes getting node up and running easy.
-* NodeJS - [Follow appropriate directions here](http://nodejs.org)
-* Arduino - [Mac Install guide](http://arduino.cc/en/Guide/MacOSX)
-* Install the FTDI Drivers. You must do this if you want to use the ED1 boards. [32-bit Macs](http://www.ftdichip.com/drivers/VCP/MacOSX/FTDIUSBSerialDriver_v2_2_18.dmg) or [64-bit Macs](http://www.ftdichip.com/Drivers/VCP/MacOSX/FTDIUSBSerialDriver_v2_2_18.dmg)
+**Supporters:** YBF, ThoughtWorks, NICTA
 
-Finally - attempt to install node-serialport as this will test everything is working:
+### NodeBots Day Sydney
 
-```
-	npm install serialport
-```
+**When:** July 27, 2013 (part of International NodeBots Day)
 
-### Linux
+**Where:** Web Directions, Surry Hills
 
-Install the following (assuming Ubuntu / Debian machines):
-
-* Arduino [Available here to install manually](http://playground.arduino.cc/Learning/Linux) or a simple 'apt-get install arduino' should do it
-* NodeJS: [Source install instructions here](http://howtonode.org/how-to-install-nodejs). Don't install via your package manager as you really need an up-to-date version of node to work with hardware.
-
-Finally - attempt to install node-serialport as this will test everything is working:
-
-```
-	npm install serialport
-```
-
-### Windows
-
-Install the following:
-
-* Visual Studio Express 2012 / 2013 [Install guide here](http://www.microsoft.com/visualstudio/eng/downloads#d-express-windows-desktop) - you absolutely must have this installed on windows as Node Serial Port depends on it.
-* Python 2.7.x [Download here](http://www.python.org/download/releases/2.7.5/) - Just download the bit version you need and install the exe.
-* NodeJS: [Windows Installer here](http://nodejs.org/download/)
-
-You want to check that this is all working BEFORE you come to NBD. The best way to test is to install node-serialport. In the Visual Studio Command Prompt you need to add python to your path so node-gyp (the node build system) can find it and work. And then install serialport.
-
-```
-	set path=%path%;C:\Python27
-    npm install serialport --msvs_version=2012
-```
-
-This will shake out any problems you've got. It's pretty common to have troubles with Windows but they are fairly well documented and a quick google of the error message will usually resolve it.
-
-If not then our friendly team will give you a hand on the day.
+**Supporters:** WebDirections, NICTA
