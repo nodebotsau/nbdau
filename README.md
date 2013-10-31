@@ -11,6 +11,8 @@ This respository is for all NodeBots Day events being run in Australia and conta
 
 **Sponsors:** We are currently looking for sponsors. If you'd like to get involved please [get in touch](mailto:ajfisher.td@gmail.com)
 
+**Get a ticket:** [Tickets are available via eventbrite](http://nodebotsbris.eventbrite.com.au/)
+
 ## Things to do before the day
 
 If you can download and install all your software prerequisites it will mean you're up and running that much faster. [Our setup guide should get you up and running](setup.md) however if you run into any problems, our friendly NodeBoteers willgive you a hand on the day.
