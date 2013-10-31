@@ -19,7 +19,7 @@ If you can download and install all your software prerequisites it will mean you
 
 If you're keen on building a simple robot you can take home with you then you'll need some components. [We've got a handy list here of what you need and where you can get it.](simplebot.md)
 
-## Aussie NodeBoteers
+## Aussie NodeBoticists
 
 Here are a bunch of people doing interesting things in the NodeBots space if you want to follow their activities.
 
