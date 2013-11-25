@@ -9,9 +9,7 @@ This respository is for all NodeBots Day events being run in Australia and conta
 
 **Location:** The Edge, Stanley Place, Cultural Centre, Southbank. [Map and travel details here](http://edgeqld.org.au/contact-us/)
 
-**Sponsors:** We are currently looking for sponsors. If you'd like to get involved please [get in touch](mailto:ajfisher.td@gmail.com)
-
-**Get a ticket:** [Tickets are available via eventbrite](http://nodebotsbris.eventbrite.com.au/)
+**Sponsors:** ThoughtWorks Brisbane, NICTA, The Edge.
 
 ## Things to do before the day
 
