@@ -15,7 +15,7 @@ This respository is for all NodeBots Day events being run in Australia and conta
 
 If you can download and install all your software prerequisites it will mean you're up and running that much faster. [Our setup guide should get you up and running](setup.md) however if you run into any problems, our friendly NodeBoteers willgive you a hand on the day.
 
-If you're keen on building a simple robot you can take home with you then you'll need some components. [We've got a handy list here of what you need and where you can get it.](simplebot.md)
+If you're keen on building a simple robot you can take home with you then you'll need some components. [We've got a handy list here of what you need and where you can get it.](simplebot)
 
 ## Aussie NodeBoticists
 
