@@ -18,7 +18,7 @@ MIT licence derived from the master given above.
 ## Use
 
 Use a NICTA ED1 board and install standard firmata on it with the following two 
-lines of code inserted AFTER the header inclusions. Compile and upload as normal.
+lines of code inserted AFTER the header inclusions. Compile and upload as normal. The board selection seems resilient but the Duemilanove w/ ATmega328 works well.
 
 ```
     #define TOTAL_PINS 22
