@@ -2,14 +2,15 @@
 
 This respository is for all NodeBots Day events being run in Australia and contains location information as well as setup guides and information around simple bots and resources that can be used on the day.
 
+## Hosting an event
+
+Looking to bring NodeBots day to a place near to you - get in touch with Andrew Fisher (ajfisher.td at gmail) and he will help you arrange it.
+
 ## Upcoming Events:
 
-### NodeBots Day Brisbane
-**Date / Time:** Saturday November 30, 2013 (12pm-6pm)
+NodeBots Day (Intro) Melbourne, March - TBA
 
-**Location:** The Edge, Stanley Place, Cultural Centre, Southbank. [Map and travel details here](http://edgeqld.org.au/contact-us/)
-
-**Sponsors:** ThoughtWorks Brisbane, NICTA, The Edge.
+NodeBots Hacking - Hack Melbourne 1st and 3rd Wednesdays of the Month for ongoing hacking.
 
 ## Things to do before the day
 
@@ -44,6 +45,13 @@ Damon Oehlman (NBDSyd) - JS developer. Hacker of skylanders hardware [@damonoehl
 Jared Wyles (NBDSyd, NBDMelb) - JS / Node hacker and kicked off bringing NBD to Australia. [@rioter](http://twitter.com/rioter) | [GitHub](http://github.com/rioter)
 
 ## Previous NodeBots Day Australia Events
+
+### NodeBots Day Brisbane
+**Date / Time:** Saturday November 30, 2013 (12pm-6pm)
+
+**Location:** The Edge, Stanley Place, Cultural Centre, Southbank. [Map and travel details here](http://edgeqld.org.au/contact-us/)
+
+**Sponsors:** ThoughtWorks Brisbane, NICTA, The Edge.
 
 ### NodeBots Day Melbourne
 
