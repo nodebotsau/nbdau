@@ -8,9 +8,9 @@ Looking to bring NodeBots day to a place near to you - get in touch with Andrew 
 
 ## Upcoming Events:
 
-NodeBots Day (Intro) Melbourne, March - TBA
+NodeBots at CampJS III - weekend of 23 - 26 May, 2014, NoodeBots workshops will be conducted on the Saturday and Sunday with plenty of hacking time in between.
 
-NodeBots Hacking - Hack Melbourne 1st and 3rd Wednesdays of the Month for ongoing hacking.
+NodeBots Hacking - Hack Melbourne 2nd and 4th Wednesdays of the Month for ongoing hacking.
 
 ## Things to do before the day
 
@@ -45,6 +45,13 @@ Damon Oehlman (NBDSyd) - JS developer. Hacker of skylanders hardware [@damonoehl
 Jared Wyles (NBDSyd, NBDMelb) - JS / Node hacker and kicked off bringing NBD to Australia. [@rioter](http://twitter.com/rioter) | [GitHub](http://github.com/rioter)
 
 ## Previous NodeBots Day Australia Events
+
+### NodeBots at CampJS III
+
+**Date / Time:** 23 - 26 May, 2014
+
+**Location:** Camp JS III
+
 
 ### NodeBots Day Brisbane
 **Date / Time:** Saturday November 30, 2013 (12pm-6pm)
