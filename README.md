@@ -75,3 +75,6 @@ Jared Wyles (NBDSyd, NBDMelb) - JS / Node hacker and kicked off bringing NBD to 
 **Where:** Web Directions, Surry Hills
 
 **Supporters:** WebDirections, NICTA
+
+## Icon
+NodeBots icon based on 'Robot' designed by Julien Deveaux from the Noun Project, used under the terms of the [Creative Commons – Attribution (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/us/) license
