@@ -22,21 +22,21 @@ If you're keen on building a simple robot you can take home with you then you'll
 
 Here are a bunch of people doing interesting things in the NodeBots space if you want to follow their activities.
 
-Glen Arrowsmith (NBDBris) - JS Hacker and Browser Bot Pioneer [@garrows](http://twitter.com/garrows) | [GitHub](http://github.com/garrows)
+Glen Arrowsmith (CampJS, NBDBris) - JS Hacker and Browser Bot Pioneer [@garrows](http://twitter.com/garrows) | [GitHub](http://github.com/garrows)
 
 Maurice Butler (NBDBris) - Doer of all things javascript && Node.js [@butlermaurice](http://twitter.com/butlermaurice)
 
-Andrew Fisher (NBDSyd, NBDMelb, NBDBris) - Builder of web things, interaction researcher [@ajfisher](http://twitter.com/ajfisher) | [GitHub](http://github.com/ajfisher)
+Andrew Fisher (NBDSyd, NBDMelb, NBDBris, CampJS) - Builder of web things, interaction researcher [@ajfisher](http://twitter.com/ajfisher) | [GitHub](http://github.com/ajfisher)
 
 Andy Gelme (NBDMelb) - Mesh networking, robots, Lifx, creator of Melbourne Hackerspace [@geekscape](http://twitter.com/geekscape) | [GitHub](http://github.com/geekscape)
 
-Anna Gerber (NBDBris) - Maker and developer, maintainer of the Nodebots version of Arduino Experimenters Guide [@annagerber](http://twitter.com/annagerber) | [GitHub](http://github.com/annagerber)
+Anna Gerber (NBDBris, CampJS) - Maker and developer, maintainer of the Nodebots version of Arduino Experimenters Guide [@annagerber](http://twitter.com/annagerber) | [GitHub](http://github.com/annagerber)
 
-Brendan Halliday (NBDBris) - Hardware hacker [@nog3](http://twitter.com/nog3)
+Brendan Halliday (NBDBris, CampJS) - Hardware hacker [@nog3](http://twitter.com/nog3)
 
 John Judge (NBDSyd) - NICTA ED1 hacker, educator
 
-Harriet Lawrence - Web Thingsificationer and tinkerer [@harrietgl](http://twitter.com/harrietgl)
+Harriet Lawrence (NBDBris) - Web Thingsificationer and tinkerer [@harrietgl](http://twitter.com/harrietgl)
 
 Hadi Michael (NBDMelb) - JS Developer and robotics hacker [@hadi_michael](http://twitter.com/hadi_michael) | [GitHub](http://github.com/hadimichael)
 
@@ -75,3 +75,6 @@ Jared Wyles (NBDSyd, NBDMelb) - JS / Node hacker and kicked off bringing NBD to 
 **Where:** Web Directions, Surry Hills
 
 **Supporters:** WebDirections, NICTA
+
+## Icon
+NodeBots icon based on 'Robot' designed by Julien Deveaux from the Noun Project, used under the terms of the [Creative Commons – Attribution (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/us/) license
