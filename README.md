@@ -8,7 +8,7 @@ Looking to bring NodeBots day to a place near to you - get in touch with Andrew 
 
 ## Upcoming Events:
 
-NodeBots at CampJS III - weekend of 23 - 26 May, 2014, NoodeBots workshops will be conducted on the Saturday and Sunday with plenty of hacking time in between.
+International NodeBots Day 2014 events running in Melbourne, Brisbane and Sydney on July 26th.
 
 NodeBots Hacking - Hack Melbourne 2nd and 4th Wednesdays of the Month for ongoing hacking.
 
@@ -50,7 +50,7 @@ Jared Wyles (NBDSyd, NBDMelb) - JS / Node hacker and kicked off bringing NBD to 
 
 **Date / Time:** 23 - 26 May, 2014
 
-**Location:** Camp JS III
+**Location:** Camp JS III, Lord Somers Camp, VIC
 
 
 ### NodeBots Day Brisbane
