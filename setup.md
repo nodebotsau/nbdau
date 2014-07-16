@@ -21,6 +21,34 @@ Finally - attempt to install node-serialport as this will test everything is wor
 
 If you can install node-serialport then you're pretty much good to go.
 
+The following commands will also install all these componenets using Homebrew, Cask and 
+
+```
+#! /usr/bin/env bash
+
+# Install Apple CLI Dev tools, java, node, Arduino IDE etc
+
+xcode-select --install # Works on Mavericks and hopfully above
+
+echo
+read -p "Please wait until CLI tools are installed and press enter"  < /dev/tty
+
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+
+#Symlink Cask apps into the normal place. Add this to login scripts as well
+export HOMEBREW_CASK_OPTS="--appdir=/Applications"
+
+brew tap caskroom/cask
+brew install brew-cask
+
+brew cask install java
+
+brew install minicom # Useful to connect to serial devices
+brew install node
+brew cask install arduino
+sudo npm -g install serialport
+```
+
 ### Linux
 
 Linux is generally pretty straight forward. Install the following (assuming Ubuntu / Debian machines):
