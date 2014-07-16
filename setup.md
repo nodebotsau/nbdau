@@ -21,7 +21,7 @@ Finally - attempt to install node-serialport as this will test everything is wor
 
 If you can install node-serialport then you're pretty much good to go.
 
-The following commands will also install all these componenets using Homebrew, Cask and 
+The following commands will also install all these components using Homebrew and Cask (assumes XCode is installed though). 
 
 ```
 #! /usr/bin/env bash
@@ -51,9 +51,9 @@ sudo npm -g install serialport
 
 ### Linux
 
-Linux is generally pretty straight forward. Install the following (assuming Ubuntu / Debian machines):
+Linux is generally pretty straight forward. Install the following (assuming Ubuntu / Debian style machines):
 
-* Arduino [Available here to install manually](http://playground.arduino.cc/Learning/Linux) or a simple 'apt-get install arduino' should do it
+* Arduino [Available here to install manually](http://playground.arduino.cc/Learning/Linux) or a simple 'apt-get install arduino' should do it for a relatively recent version.
 * NodeJS: [Source install instructions here](http://howtonode.org/how-to-install-nodejs). Don't install via your package manager as you really need an up-to-date version of node to work with hardware.
 
 Finally - attempt to install node-serialport as this will test everything is working:
@@ -64,28 +64,20 @@ Finally - attempt to install node-serialport as this will test everything is wor
 
 ### Windows
 
+_Please note_
+
+Windows users generally have the most problems with getting up and running of anyone. Please ensure you can install Johnny Five before coming to the event or you may lose time on the day hunting for issues.
+
+
 Install the following:
 
-* Visual Studio Express 2012 / 2013 [Install guide here](http://www.microsoft.com/visualstudio/eng/downloads#d-express-windows-desktop) - you absolutely must have this installed on windows as Node Serial Port depends on it.
 * Python 2.7.x [Download here](http://www.python.org/download/releases/2.7.5/) - Just download the bit version you need and install the exe.
 * NodeJS: [Windows Installer here](http://nodejs.org/download/)
 
-You want to check that this is all working BEFORE you come to NBD. The best way to test is to install Johnny Five. In the Visual Studio Command Prompt you need to add python to your path so node-gyp (the node build system) can find it and work. And then install Johnny-Five.
 
 ```
-	set path=%path%;C:\Python27
-    npm install johnny-five --msvs_version=2012
+    npm install johnny-five
 ```
 
 This will shake out any problems you've got. It's pretty common to have troubles with Windows but they are fairly well documented and a quick google of the error message will usually resolve it.
 
-From here we need to update johnny-five to use a known, stable version of serial port for Windows. From wherever you installed Johnny Five do this:
-
-```
-	cd node_modules/johnny-five/node_modules
-    npm install serialport@1.1.3 --msvs_version=2012
-```
-
-And that should have you sorted.
-
-If not then our friendly team will give you a hand on the day.
