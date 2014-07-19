@@ -21,7 +21,10 @@ Finally - attempt to install node-serialport as this will test everything is wor
 
 If you can install node-serialport then you're pretty much good to go.
 
-The following commands will also install all these components using Homebrew and Cask (assumes XCode is installed though). 
+The following commands will also install all these components using Homebrew and Cask.
+It assumes you are using OS X.9 or above. If you are using an earlier version of OS X
+then you will need to install XCode from the App Store and then install the command line tools;
+or download the command line development tools from the Apple developer site and install.
 
 ```
 #! /usr/bin/env bash
