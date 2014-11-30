@@ -36,7 +36,7 @@ xcode-select --install # Works on Mavericks and hopfully above
 echo
 read -p "Please wait until CLI tools are installed and press enter"  < /dev/tty
 
-ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 #Symlink Cask apps into the normal place. Add this to login scripts as well
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
