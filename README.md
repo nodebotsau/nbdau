@@ -8,9 +8,9 @@ Looking to bring NodeBots day to a place near to you? Get in touch with Andrew F
 
 ## Upcoming Events:
 
-International NodeBots Day 2014 events running in Melbourne, Brisbane and Sydney on July 26th.
+International NodeBots Day 2015 events running in Melbourne, Brisbane and Sydney on July 25th.
 
-NodeBots Hacking - Hack Melbourne 2nd and 4th Wednesdays of the Month for ongoing hacking.
+NodeBots Night - First Wednesday of every month at Hack Melbourne.
 
 ## Things to do before the day
 
