@@ -1,5 +1,7 @@
 # NodeBots Day Resources
 
+[![Join the chat at https://gitter.im/nodebotsau/nbdau](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nodebotsau/nbdau?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This respository is for all NodeBots Day events being run in Australia and contains location information as well as setup guides and information around simple bots and resources that can be used on the day.
 
 ## Hosting an event
