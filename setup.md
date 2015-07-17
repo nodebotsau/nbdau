@@ -49,7 +49,8 @@ brew cask install java
 brew install minicom # Useful to connect to serial devices
 brew install node
 brew cask install arduino
-sudo npm -g install serialport
+mkdir ~/test && cd test
+npm install serialport
 ```
 
 ### Linux
