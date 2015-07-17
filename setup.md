@@ -11,7 +11,7 @@ If any of this isn't working, don't worry, our friendly team will be able to hel
 * Your choice of HomeBrew or MacPorts. We'd recommend [homebrew](http://brew.sh/) as it makes getting node up and running easy.
 * NodeJS - [Follow the appropriate directions here](http://nodejs.org)
 * Arduino - [Mac Install guide](http://arduino.cc/en/Guide/MacOSX)
-* Install the FTDI Drivers. You must do this if you want to use the ED1 boards. [32-bit Macs](http://www.ftdichip.com/drivers/VCP/MacOSX/FTDIUSBSerialDriver_v2_2_18.dmg) or [64-bit Macs](http://www.ftdichip.com/Drivers/VCP/MacOSX/FTDIUSBSerialDriver_v2_2_18.dmg)
+* Install the CH340 Drivers - this is in a folder in this repo called [drivers](/drivers/ch341ser_mac.zip) 
 
 Finally - attempt to install node-serialport as this will test everything is working:
 
@@ -69,18 +69,18 @@ Finally - attempt to install node-serialport as this will test everything is wor
 
 _Please note_
 
-Windows users generally have the most problems with getting up and running of anyone. Please ensure you can install Johnny Five before coming to the event or you may lose time on the day hunting for issues.
+Windows users can have the most problems with getting up and running of anyone. Please ensure you can install Johnny Five before coming to the event or you may slow down on the day.
 
 
 Install the following:
 
-* Python 2.7.x [Download here](http://www.python.org/download/releases/2.7.5/) - Just download the bit version you need and install the exe.
 * NodeJS: [Windows Installer here](http://nodejs.org/download/)
-
+* Arduino: [Windows install guide](https://www.arduino.cc/en/guide/windows)
+* Serial driver software: [In the drivers folder install the windows package](/drivers/)
 
 ```
     npm install johnny-five
 ```
 
-This will shake out any problems you've got. It's pretty common to have troubles with Windows but they are fairly well documented and a quick google of the error message will usually resolve it.
+This will shake out any problems you've got. Occasionally there is trouble with Windows but they are fairly well documented and a quick google of the error message will usually resolve it.
 
