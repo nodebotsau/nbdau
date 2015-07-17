@@ -76,7 +76,7 @@ Install the following:
 
 * NodeJS: [Windows Installer here](http://nodejs.org/download/)
 * Arduino: [Windows install guide](https://www.arduino.cc/en/guide/windows)
-* Serial driver software: [In the drivers folder install the windows package](/drivers/)
+* Serial driver software: [In the drivers folder install the windows package](/drivers/CH340 windows.zip)
 
 ```
     npm install johnny-five
