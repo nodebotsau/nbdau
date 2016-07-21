@@ -13,9 +13,15 @@ waiting a while to get it onto your machine.
 [homebrew](http://brew.sh/) as it makes getting node up and running easy.
 * NodeJS - [Follow the appropriate directions here](http://nodejs.org) or use
 [NVM](https://github.com/creationix/nvm) if you want to run different versions of Node.
-* Install the CH340 Drivers - this is in a folder in this repo called [drivers](/drivers/ch341ser_mac.zip)
+* Install the CH340 Drivers - this is in a folder in this repo called [drivers](/drivers/ch340-mac-driver.zip)
 
-Optionally you can also install the arduino IDE.
+Note that with the driver install you may be prompted to make sure you have the
+"Codebender site" open. You can skip past this step however as an aside,
+[CodeBender.cc](http://codebender.cc) is an awesome project allowing you to
+prgram and manage firmware for embedded devices directly from your browser.
+
+Optionally you can also install the arduino IDE which you can use to write C
+code for your hardware.
 
 * Arduino - [Mac Install guide](http://arduino.cc/en/Guide/MacOSX)
 
