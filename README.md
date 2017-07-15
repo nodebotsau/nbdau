@@ -19,6 +19,37 @@ This respository is for all NodeBots Day events being run in Australia and conta
 - Bring any extra electronics components you want to use.
 - [Join our slack channel](http://invite.nodebots.au) if you havent already!
 
+## What are you building?
+
+Here are some useful resources depending on what you are building:
+
+- SimpleBot: https://github.com/nodebotsau/simplebot
+- Simplebot + SumoBot: https://github.com/nodebotsau/simplebot/blob/master/docs/sumobot.md
+- Simplebot + LineFollower: https://github.com/nodebotsau/simplebot/blob/master/docs/linefollower.md
+- Simplebot + Obstacle Avoidance: https://github.com/nodebotsau/simplebot/blob/master/docs/obstacleavoider.md
+- Scientist Kit: https://github.com/nodebotsau/scientist-kit
+- IoT Kit: https://github.com/nodebotsau/nodebots-iot-2017
+
+## Sumobot Fight
+
+The rules of the sumo-bot fight are taken from the main [nodebots.io](http://nodebots.io/sumo.html) site and are as follows:
+
+### Dimensions
+
+Sumo bots must fit into an 25cm cube. The "arena" will be a 90cm diameter circle on a flat surface.
+
+### Competition rules
+
+- Each match will consist of 3 rounds of 60 seconds each between 2 robots
+- The winner of each match will compete against winners of other matches, until one robot is determined to be the Grand Champion Sumo Bot
+- While damage/destruction is inevitable, it is not encouraged. Robots that purposely attempt to ruin their competition will be put in timeout with a professional finger-wagger for the remainder of the competition.
+
+### Scoring
+
+- If a robot leaves the competition arena, the opposing robot wins the round
+- The first robot to win 2 rounds winds the match.
+- If neither robot wins the round, the match judge will choose the winner, based on something whimsical and/or random, probably style.
+
 ## Contacts and Contributors
 
 Our thanks to the people below who have helped organize and run nodebots day in Australia:
