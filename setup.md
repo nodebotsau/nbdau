@@ -65,6 +65,7 @@ slow down on the day.
 
 Install the following:
 
+* Git: [Windows Installer for Git](https://git-scm.com/downloads)
 * NodeJS: [Windows Installer here](http://nodejs.org/en/download/)
 * Serial driver software: [In the drivers folder install the windows package](drivers/CH340%20windows.zip)
 * Install [Interchange](https://github.com/johnny-five-io/nodebots-interchange)
