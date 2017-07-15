@@ -9,7 +9,7 @@ This respository is for all NodeBots Day events being run in Australia and conta
 
 - **[Setup your machine](setup.md):** Bandwidth is shared during the event so please download and install all your software prerequisites beforehand so you can be up and running much faster. If you run into any problems, our friendly NodeBoteers will give you a hand on the day.
 
-- **Buy Hardware Components (if you didn't purchase a kit):** If you're keen on building a simple robot you can take home with you then you'll need some components. [We've got a handy list here of what you need and where you can get it.](https://github.com/nodebotsau/simplebot#materials-needed)
+- **Buy Hardware Components (if you didn't purchase a kit):** If you're keen on building a simple robot you can take home with you then you'll need some components. [We've got a handy list here of what you need.](https://github.com/nodebotsau/simplebot#materials-needed)
 
 - **Learn some basic electronics:** Check out our [handy guide](Nodebots%20electronics%20primer.pdf) if you want to learn (or freshen up) about electronics.
 
