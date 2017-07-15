@@ -90,11 +90,17 @@ Make sure its connected to the PC by USB first, there should be a red LED lighti
 interchange install StandardFirmata -a nano 
 ```
 
-To test you've got Firmata running, run a basic blink program with the following command: 
+To test you've got Firmata running, you'll need a basic blink program. First install `simplebot` project.
 
 ```
 git clone https://github.com/nodebotsau/simplebot.git
 cd simplebot
+npm install
+```
+
+Then run the blink program: 
+
+```
 node examples/blink.js
 ```
 
