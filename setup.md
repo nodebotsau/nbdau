@@ -1,3 +1,5 @@
+![setup.jpg](setup.jpg)
+
 # Setting up your NodeBots Environment
 
 If you have all of this installed before you arrive then you'll be ready to get
