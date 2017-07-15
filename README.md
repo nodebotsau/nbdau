@@ -58,6 +58,7 @@ Our thanks to the people below who have helped organize and run nodebots day in 
 
 - Andrew Fisher - Chief Nodeboteer [@ajfisher](http://github.com/ajfisher)
 - Andy Gelme [@geekscape](http://github.com/geekscape)
+- Andrey Sidorov [@sidorares](http://github.com/sidorares)
 - Dave Hall [@skwashd](http://github.com/skwashd)
 - Glen Arrowsmith [@garrows](http://github.com/garrows)
 - Anna Gerber [@annagerber](http://github.com/annagerber)
