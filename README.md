@@ -17,7 +17,7 @@ This respository is for all NodeBots Day events being run in Australia and conta
 
 - Bring your laptop.
 - Bring any extra electronics components you want to use.
-- [Join our slack channel](http://invite.nodebots.au) if you havent already!
+- [Join our slack channel](http://invite.nodebotsau.io/) if you havent already!
 
 ## What are you building?
 
