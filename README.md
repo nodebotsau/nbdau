@@ -30,11 +30,11 @@ Here are some useful resources depending on what you are building:
 - Scientist Kit: https://github.com/nodebotsau/scientist-kit
 - IoT Kit: https://github.com/nodebotsau/nodebots-iot-2017
 
-## Sumobot Fight
+## Sumobot Fight Rules
 
 ![sumofight.jpg](sumofight.jpg)
 
-The rules of the sumo-bot fight are taken from the main [nodebots.io](http://nodebots.io/sumo.html) site and are as follows:
+The sumobot fight takes place at the end of the day. The rules of the sumo-bot fight are taken from the main [nodebots.io](http://nodebots.io/sumo.html) site and are as follows:
 
 ### Dimensions
 
