@@ -14,7 +14,7 @@ waiting a while to get it onto your machine.
 * Install [homebrew](http://brew.sh/) as it makes getting packages up and running easy.
 * Install Git using `brew install git` from a terminal.
 * Install nodejs using [NVM](https://github.com/creationix/nvm) (alternatively
-[follow the appropriate directions here](http://nodejs.org)
+[follow the appropriate directions here](http://nodejs.org))
 * Install the CH340 Drivers - this is in a folder in this repo called
 [drivers](drivers/CH34x_Install_V1.3.pkg)
 * Install [Interchange](https://github.com/johnny-five-io/nodebots-interchange)
