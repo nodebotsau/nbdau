@@ -16,7 +16,7 @@ waiting a while to get it onto your machine.
 * Install nodejs using [NVM](https://github.com/creationix/nvm) (alternatively
 [follow the appropriate directions here](http://nodejs.org)
 * Install the CH340 Drivers - this is in a folder in this repo called
-[drivers](/drivers/ch340-mac-driver.zip)
+[drivers](drivers/ch340-mac-driver.zip)
 * Install [Interchange](https://github.com/johnny-five-io/nodebots-interchange)
 `npm install -g nodebots-interchange`
 
