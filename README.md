@@ -56,7 +56,7 @@ Sumo bots must fit into an 25cm cube. The "arena" will be a 90cm diameter circle
 
 Our thanks to the people below who have helped organize and run nodebots day in Australia:
 
-- Andrew Fisher - Chief Nodeboteer [@ajfisher](http://github.com/ajfisher)
+- Andrew Fisher - Chief Nodeboteer & Cat Herder [@ajfisher](http://github.com/ajfisher)
 - Andy Gelme [@geekscape](http://github.com/geekscape)
 - Andrey Sidorov [@sidorares](http://github.com/sidorares)
 - Dave Hall [@skwashd](http://github.com/skwashd)
