@@ -79,3 +79,42 @@ This will shake out any problems you've got. Occasionally there is trouble with
 Windows but they are fairly well documented and a quick google of the error
 message will usually resolve it.
 
+## Run a basic blink program
+
+Next, if you have an arduino nano to hand, you might want to get it setup with firmata.
+
+Make sure its connected to the PC by USB first, there should be a red LED lighting up when you do.
+
+```
+interchange install StandardFirmata -a nano 
+```
+
+To test you've got Firmata running, run a basic blink program with the following command: 
+
+```
+git clone https://github.com/nodebotsau/simplebot.git
+cd simplebot
+node examples/blink.js
+```
+
+If it all goes well. You'll see a blinking LED positioned next to the L on your arduino.
+
+```
+[ ] RX
+[ ] TX
+[*] POW 
+[*] L     <--- this light will start flashing
+```
+
+![blink.jpg](blink.jpg)
+
+Open the [`examples/blink.js`](https://github.com/nodebotsau/simplebot/blob/master/examples/blink.js) program in an editor and look at the code. Its currently set to blink every 500ms. 
+
+Try changing this to 100ms and see if it blinks faster now.
+
+```js
+board.on("ready", function() {
+  var led = new five.Led(13);
+  led.blink(500);  //  <--- try changing this value see if it blinks faster/slower
+});
+```
