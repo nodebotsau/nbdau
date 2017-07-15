@@ -1,3 +1,5 @@
+![nbdau.jpg](nbdau.jpg)
+
 # NodeBots Day Resources
 
 [Join our slack channel](http://invite.nodebots.au)
