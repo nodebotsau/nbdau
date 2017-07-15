@@ -7,7 +7,7 @@ This respository is for all NodeBots Day events being run in Australia and conta
 
 ## Things to do before the day
 
-- **Setup your machine:** Download and install all your software prerequisites so you can be up and running much faster. [Our setup guide should get you up and running](setup.md) however if you run into any problems, our friendly NodeBoteers will give you a hand on the day.
+- **Setup your machine:** Bandwidth is shared during the event so please download and install all your software prerequisites beforehand so you can be up and running much faster. [Our setup guide should get you up and running](setup.md) however if you run into any problems, our friendly NodeBoteers will give you a hand on the day.
 
 - **Buy Hardware Components (if you didn't purchase a kit):** If you're keen on building a simple robot you can take home with you then you'll need some components. [We've got a handy list here of what you need and where you can get it.](https://github.com/nodebotsau/simplebot#materials-needed)
 
