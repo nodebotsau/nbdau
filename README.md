@@ -42,14 +42,16 @@ Sumo bots must fit into an 25cm cube. The "arena" will be a 90cm diameter circle
 
 ### Competition rules
 
-- Each match will consist of 3 rounds of 60 seconds each between 2 robots
-- The winner of each match will compete against winners of other matches, until one robot is determined to be the Grand Champion Sumo Bot
+- Each match will consist of 3 rounds of 60 seconds each between 2 robots (1)
+- Teams will compete in an initial round robin style event before selection of finalist who will go through elimination rounds.
 - While damage/destruction is inevitable, it is not encouraged. Robots that purposely attempt to ruin their competition will be put in timeout with a professional finger-wagger for the remainder of the competition.
+
+(1) Note that depending on number of teams and available time this may be shorted to one 90 second bout per match instead.
 
 ### Scoring
 
 - If a robot leaves the competition arena, the opposing robot wins the round
-- The first robot to win 2 rounds winds the match.
+- The first robot to win a majority of rounds wins the match.
 - If neither robot wins the round, the match judge will choose the winner, based on something whimsical and/or random, probably style.
 
 ## Contacts and Contributors
