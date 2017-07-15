@@ -1,6 +1,6 @@
 ![nbdau.jpg](nbdau.jpg)
 
-# NodeBots Day
+# NodeBots Day - Australia
 
 This respository is for all NodeBots Day events being run in Australia and contains setup guides and information around simple bots and resources that can be used on the day.
 
@@ -18,6 +18,20 @@ This respository is for all NodeBots Day events being run in Australia and conta
 - Bring your laptop.
 - Bring any extra electronics components you want to use.
 - [Join our slack channel](http://invite.nodebots.au) if you havent already!
+
+## Contacts and Contributors
+
+Our thanks to the people below who have helped organize and run nodebots day in Australia:
+
+- Andrew Fisher - Chief Nodeboteer [@ajfisher](http://github.com/ajfisher)
+- Andy Gelme [@geekscape](http://github.com/geekscape)
+- Dave Hall [@skwashd](http://github.com/skwashd)
+- Glen Arrowsmith [@garrows](http://github.com/garrows)
+- Anna Gerber [@annagerber](http://github.com/annagerber)
+- Damon Oehlman [@damonoehlman](http://github.com/damonoehlman)
+- Julian Pittas [@julianpitt](http://github.com/julianpitt)
+- Steven de Salas [@sdesalas](http://github.com/sdesalas)
+- Mark Woolfe [@wolfeidau](http://github.com/wolfeidau)
 
 ## Icon
 NodeBots icon based on 'Robot' designed by Julien Deveaux from the Noun Project, used under the terms of the [Creative Commons – Attribution (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/us/) license
