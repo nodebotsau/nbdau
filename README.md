@@ -32,6 +32,8 @@ Here are some useful resources depending on what you are building:
 
 ## Sumobot Fight
 
+![http://nodebotsau.io/img/nodebotsday2016.jpg](http://nodebotsau.io/img/nodebotsday2016.jpg)
+
 The rules of the sumo-bot fight are taken from the main [nodebots.io](http://nodebots.io/sumo.html) site and are as follows:
 
 ### Dimensions
