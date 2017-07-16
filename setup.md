@@ -9,21 +9,54 @@ If any of this isn't working, don't worry, our friendly team will be able to hel
 you on the day but it's important to have everything downloaded or you'll be
 waiting a while to get it onto your machine.
 
-### Mac OSX
+### MacOS (OS X)
 
-* Install [homebrew](http://brew.sh/) as it makes getting packages up and running easy.
-* Install Git using `brew install git` from a terminal.
-* Install nodejs using [NVM](https://github.com/creationix/nvm) (alternatively
-[follow the appropriate directions here](http://nodejs.org))
-* Install the CH340 Drivers - this is in a folder in this repo called
+Installing using the Homebrew package manager is the recommented approach
+as it makes getting packages up and running easy.
+
+Open the Macintosh terminal (`Applications/Utilities/Terminal.app`) and type
+the following commands
+
+* To install [homebrew](http://brew.sh/)
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+```
+* Now install Git (for version control) and NVM (to install and mange Node.js)
+```
+brew update && brew upgrade && brew install git nvm
+```
+* Update your profile so that you can use NVM
+```
+mkdir ~/.nvm && printf '\nexport NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm\n' >> ~/.bashrc
+```
+* Close the terminal application by typing `exit` and then reopen it again so that your changes
+take affect
+* Install the latest long term support version of Node.js with `nvm install -lts`
+* Optionally you can also install the arduino IDE which you can use to write C code for your hardware.
+```
+brew install cask && brew cask install arduino
+```
+
+
+If you don't want to install using Homebrew then follow the various instructions given
+on these websites
+
+* [Node Version Manager](https://github.com/creationix/nvm) then install the latest long term support version of Node.js with `nvm install -lts`
+* [Git version control](https://git-scm.com/)
+* [Arduino Mac Install guide](http://arduino.cc/en/Guide/MacOSX) NB This package is optional,
+you can use it to write C code for your hardware.
+
+Now that you have your tool chain installed we can procced to the Nodebots Day specific setup
+
+
+* Install the CH340 Drivers - this is in a folder called
 [drivers](drivers/CH34x_Install_V1.3.pkg)
+
+Open the Macintosh terminal (`Applications/Utilities/Terminal.app`) and type
+the following commands
+
 * Install [Interchange](https://github.com/johnny-five-io/nodebots-interchange)
 `npm install -g nodebots-interchange`
-
-Optionally you can also install the arduino IDE which you can use to write C
-code for your hardware.
-
-* Arduino - [Mac Install guide](http://arduino.cc/en/Guide/MacOSX)
 
 Finally - attempt to install node-serialport as this will test everything is working:
 
