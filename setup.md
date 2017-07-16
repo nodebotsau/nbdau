@@ -17,15 +17,25 @@ as it makes getting packages up and running easy.
 Open the Macintosh terminal (`Applications/Utilities/Terminal.app`) and type
 the following commands
 
-* To install [homebrew](http://brew.sh/) `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)`
+* To install [homebrew](http://brew.sh/)
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+```
 * Now install Git (for version control) and NVM (to install and mange Node.js)
-`brew update && brew upgrade && brew install git nvm`
-* Update your profile so that you can use NVM `mkdir ~/.nvm && printf '\nexport NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm\n' >> ~/.bashrc`
+```
+brew update && brew upgrade && brew install git nvm
+```
+* Update your profile so that you can use NVM
+```
+mkdir ~/.nvm && printf '\nexport NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm\n' >> ~/.bashrc
+```
 * Close the terminal application by typing `exit` and then reopen it again so that your changes
 take affect
 * Install the latest long term support version of Node.js with `nvm install -lts`
 * Optionally you can also install the arduino IDE which you can use to write C code for your hardware.
-`brew install cask && brew cask install arduino`
+```
+brew install cask && brew cask install arduino
+```
 
 
 If you don't want to install using Homebrew then follow the various instructions given
