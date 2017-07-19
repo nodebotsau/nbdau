@@ -23,15 +23,10 @@ the following commands
 ```
 * Now install Git (for version control) and NVM (to install and mange Node.js)
 ```
-brew update && brew upgrade && brew install git nvm
-```
-* Update your profile so that you can use NVM
-```
-mkdir ~/.nvm && printf '\nexport NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh" # This loads nvm\n' >> ~/.bashrc
+brew install git node
 ```
 * Close the terminal application by typing `exit` and then reopen it again so that your changes
 take affect
-* Install the latest long term support version of Node.js with `nvm install -lts`
 * Optionally you can also install the arduino IDE which you can use to write C code for your hardware.
 ```
 brew install cask && brew cask install arduino
