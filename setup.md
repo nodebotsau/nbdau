@@ -19,7 +19,7 @@ the following commands
 
 * To install [homebrew](http://brew.sh/)
 ```
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 * Now install Git (for version control) and NVM (to install and mange Node.js)
 ```
@@ -41,7 +41,7 @@ brew install cask && brew cask install arduino
 If you don't want to install using Homebrew then follow the various instructions given
 on these websites
 
-* [Node Version Manager](https://github.com/creationix/nvm) then install the latest long term support version of Node.js with `nvm install -lts`
+* [Node Version Manager](https://github.com/creationix/nvm) then install the latest long term support version of Node.js with `nvm install --lts`
 * [Git version control](https://git-scm.com/)
 * [Arduino Mac Install guide](http://arduino.cc/en/Guide/MacOSX) NB This package is optional,
 you can use it to write C code for your hardware.
