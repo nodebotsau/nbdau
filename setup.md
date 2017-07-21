@@ -66,6 +66,7 @@ If you can install node-serialport then you're pretty much good to go.
 Linux is generally pretty straight forward. Install the following (assuming Ubuntu / Debian style machines):
 
 * Install Git `apt-get install git`
+* Install curl `apt-get install curl`
 * Install nodejs using [NVM](https://github.com/creationix/nvm) - alternatively
 [follow the appropriate directions here](http://nodejs.org). Don't use your
 package manager as the version won't be up to date enough to work with hardware.
