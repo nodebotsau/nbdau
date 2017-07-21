@@ -11,7 +11,7 @@ waiting a while to get it onto your machine.
 
 ### MacOS (OS X)
 
-Installing using the Homebrew package manager is the recommented approach
+Installing using the Homebrew package manager is the recommended approach
 as it makes getting packages up and running easy.
 
 Open the Macintosh terminal (`Applications/Utilities/Terminal.app`) and type
@@ -21,7 +21,7 @@ the following commands
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-* Now install Git (for version control) and NVM (to install and mange Node.js)
+* Now install Git (for version control) and node (to install and mange Node.js)
 ```
 brew install git node
 ```
@@ -31,7 +31,6 @@ take affect
 ```
 brew install cask && brew cask install arduino
 ```
-
 
 If you don't want to install using Homebrew then follow the various instructions given
 on these websites
@@ -43,23 +42,17 @@ you can use it to write C code for your hardware.
 
 Now that you have your tool chain installed we can procced to the Nodebots Day specific setup
 
-
 * Install the CH340 Drivers - this is in a folder called
 [drivers](drivers/CH34x_Install_V1.3.pkg)
 
-Open the Macintosh terminal (`Applications/Utilities/Terminal.app`) and type
+Now we need to install interchange, a package manage for nodebots. Open the
+Macintosh terminal (`Applications/Utilities/Terminal.app`) and type
 the following commands
 
 * Install [Interchange](https://github.com/johnny-five-io/nodebots-interchange)
 `npm install -g nodebots-interchange`
 
-Finally - attempt to install node-serialport as this will test everything is working:
-
-```
-	npm install serialport
-```
-
-If you can install node-serialport then you're pretty much good to go.
+If this all installs without any errors then you're good to go.
 
 ### Linux
 
@@ -91,7 +84,6 @@ Windows users can have the most problems with getting up and running of anyone.
 Please ensure you can install Johnny Five before coming to the event or you may
 slow down on the day.
 
-
 Install the following:
 
 * Git: [Windows Installer for Git](https://git-scm.com/downloads)
@@ -115,7 +107,7 @@ Next, if you have an arduino nano to hand, you might want to get it setup with f
 Make sure its connected to the PC by USB first, there should be a red LED lighting up when you do.
 
 ```
-interchange install StandardFirmata -a nano 
+interchange install StandardFirmata -a nano
 ```
 
 To test you've got Firmata running, you'll need a basic blink program. First install `simplebot` project.
