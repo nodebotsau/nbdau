@@ -27,18 +27,6 @@ brew install git node
 ```
 * Close the terminal application by typing `exit` and then reopen it again so that your changes
 take affect
-* Optionally you can also install the arduino IDE which you can use to write C code for your hardware.
-```
-brew install cask && brew cask install arduino
-```
-
-If you don't want to install using Homebrew then follow the various instructions given
-on these websites
-
-* [Node Version Manager](https://github.com/creationix/nvm) then install the latest long term support version of Node.js with `nvm install --lts`
-* [Git version control](https://git-scm.com/)
-* [Arduino Mac Install guide](http://arduino.cc/en/Guide/MacOSX) NB This package is optional,
-you can use it to write C code for your hardware.
 
 Now that you have your tool chain installed we can procced to the Nodebots Day specific setup
 
@@ -53,6 +41,17 @@ the following commands
 `npm install -g nodebots-interchange`
 
 If this all installs without any errors then you're good to go.
+
+#### Manual installs
+
+If you don't want to install using Homebrew then follow the various instructions given
+on these websites
+
+* [Node Version Manager](https://github.com/creationix/nvm) then install the latest long term support version of Node.js with `nvm install --lts`
+* [Git version control](https://git-scm.com/)
+* [Arduino Mac Install guide](http://arduino.cc/en/Guide/MacOSX) NB This package is optional,
+you can use it to write C code for your hardware.
+
 
 ### Linux
 
