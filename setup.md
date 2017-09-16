@@ -134,7 +134,13 @@ If it all goes well. You'll see a blinking LED positioned next to the L on your 
 
 ![blink.jpg](blink.jpg)
 
-Open the [`examples/blink.js`](https://github.com/nodebotsau/simplebot/blob/master/examples/blink.js) program in an editor and look at the code. Its currently set to blink every 500ms. 
+NOTE: These programs will print a list of COM ports they can find, followed by the port they chose. Windows can change ports for obscure reasons - likely it'll be COM11 or thereabouts, but the libraries may pick the wrong port, in which case it will pause for a while then spit out an error. You can specify the port name at the end of the command if it's picking the wrong port:
+
+```
+node examples/blink.js COM11
+```
+
+Next, open the [`examples/blink.js`](https://github.com/nodebotsau/simplebot/blob/master/examples/blink.js) program in an editor and look at the code. Its currently set to blink every 500ms. 
 
 Try changing this to 100ms and see if it blinks faster now.
 
